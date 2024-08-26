@@ -1,0 +1,1 @@
+# ezcontent-smart-article-recipe
