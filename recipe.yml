@@ -1,0 +1,9 @@
+name: Smart Article Feature (Experimental)
+description: 'Provides Smart article content type.'
+
+install:
+  - ezcontent_smart_article
+
+config:
+  import:
+    ezcontent_smart_article: '*'
